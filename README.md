@@ -1,6 +1,7 @@
 # Trisistores
 
-**Trisistores** é um projeto educacional de robótica e eletrônica desenvolvido para ensinar conceitos de tecnologia de forma progressiva.
+O **Trisistores** é um kit educacional concebido para democratizar o acesso ao ensino prático de eletrônica e robótica nas escolas. A proposta é simples: oferecer protótipos didáticos de baixo custo, escaláveis e modulares, organizados em três níveis de complexidade — do primeiro contato com corrente elétrica até aplicações programáveis com microcontrolador. Cada nível contém atividades práticas que exploram conceitos fundamentais (polaridade, circuito fechado, leitura de sensores, temporização, e automação), sempre usando metodologias ativas de ensino.
+
 
 O sistema é dividido em três níveis:
 
