@@ -121,4 +121,5 @@ Inclui:
 
 # Licença
 
-Projeto aberto para uso educacional.
+Este repositório não concede permissão para comercialização
+do projeto Trisistores ou de kits derivados.
